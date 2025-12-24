@@ -21,10 +21,6 @@ Actively seeking a junior software engineer or full-stack developer role.
   🔹 Frontend: https://github.com/MatanKarmazin/cost-manager-frontend  
   _Status: In active development_
 
-- **Chat Application (Computer Networks Course)**  
-  Client-server chat application focusing on networking fundamentals and communication protocols  
-  🔗 https://github.com/MatanKarmazin/chat-app-computer-networks-course
-
 ### 📫 Contact
 - **Email:** karmazin.matan@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/matankarmazin
