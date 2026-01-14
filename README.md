@@ -7,7 +7,7 @@ Actively seeking a junior software engineer or full-stack developer role.
 
 ### Current Focus
 - Building full-stack projects with React, Node.js, and .NET  
-- Strengthening system design, clean architecture, and OOP principles  
+- Strengthening system design, clean architecture, and object-oriented programming principles  
 - Writing production-quality code with an emphasis on readability and maintainability
 
 ### Featured Projects
