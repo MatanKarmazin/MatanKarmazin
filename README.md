@@ -30,8 +30,8 @@ Actively seeking a junior software engineer or full-stack developer role.
 - **LinkedIn:** https://linkedin.com/in/matankarmazin
 
 ### Languages and Tools
-**Programming Languages:** C, C++, C#, JavaScript, Python   
-**Frontend:** React, HTML5, CSS3, Bootstrap  
-**Backend:** Node.js, Express, .NET Framework  
-**Databases:** MySQL, MongoDB  
+**Programming Languages:** JavaScript, C#, C, C++, Python
+**Frontend:** HTML5, CSS3, React
+**Backend:** Node.js, Express.js, REST APIs, .NET Framework
+**Databases:** MongoDB, MySQL  
 **Tools & Platforms:** Git, GitHub, Bash
